@@ -1,0 +1,13 @@
+Package: Friedman
+Title: Simple Tools for Checking and Cleaning Data
+Version: 0.0.0.9000
+Authors@R: person("Omar", "Sanchez",
+    email = "osanchez16@usf.edu",
+    role = c("aut", "cre"))
+Description: Provides a summary of missing values in a data frame.
+    Reports the number and percentage of missing values in each
+    column to help students review small datasets before analysis.
+Depends: R (>= 3.1.2)
+License: CC0
+Encoding: UTF-8
+RoxygenNote: 7.3.3
